@@ -107,7 +107,7 @@ metadata:
     allow.http: "false"
 spec:
   rules:
-  - host: app.rancher.devopsforlife.io
+  - host: app.rancher.novakio.tech
     http:
       paths:
         - path: /
