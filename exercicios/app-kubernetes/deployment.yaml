@@ -15,7 +15,7 @@ spec:
     spec:
       containers:
       - name: my-app
-        image: jonathanbaraldi/my-app:7
+        image: ederpfonseca/my-app:7
         ports:
         - containerPort: 8080
         env:
@@ -77,7 +77,7 @@ metadata:
 spec:
   ingressClassName: nginx
   rules:
-  - host: my-app.rancher.devopsforlife.io
+  - host: my-app.rancher.novakio.tech
     http:
       paths:
       - backend:
