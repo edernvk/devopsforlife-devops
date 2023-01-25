@@ -1,0 +1,59 @@
+{
+    "data": [
+        {
+            "cpf": "519.034.418-54",
+            "email": "ana.lidia@casadiconti.com.br",
+            "password": "15cdc2020"
+        },
+        {
+            "cpf": "434.598.508-09",
+            "email": "andressa.anjos@casadiconti.com.br",
+            "password": "15cdc2002"
+        },
+        {
+            "cpf": "482.206.358-51",
+            "email": "barbara.chicon@casadiconti.com.br",
+            "password": "bc15cdc1220"
+        },
+        {
+            "cpf": "487.191.138-11",
+            "email": "bruna.val@casadiconti.com.br",
+            "password": "18cdc1980"
+        },
+        {
+            "cpf": "397.654.988-61",
+            "email": "douglas.pereira@casadiconti.com.br",
+            "password": ""
+        },
+        {
+            "cpf": "468.757.238-32",
+            "email": "guilherme.silva@casadiconti.com.br",
+            "password": "gs15cdc1220"
+        },
+        {
+            "cpf": "488.711.518-01",
+            "email": "luiz.nicodemos@casadiconti.com.br",
+            "password": "ln15cdc1220"
+        },
+        {
+            "cpf": "538.137.928-54",
+            "email": "maria.silva@casadiconti.com.br",
+            "password": "ms15cdc1220"
+        },
+        {
+            "cpf": "538.765.618-33",
+            "email": "rafaela.zanchetta@casadiconti.com.br",
+            "password": "rz15cdc1220"
+        },
+        {
+            "cpf": "127.898.294-97",
+            "email": "ryu.chaves@casadiconti.com.br",
+            "password": "15cdc2003"
+        },
+        {
+            "cpf": "222.006.168-05",
+            "email": "renata.gisele@casadiconti.com.br",
+            "password": "18cdc2004"
+        }
+    ]
+}

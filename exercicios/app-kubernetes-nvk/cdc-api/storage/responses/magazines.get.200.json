@@ -1,0 +1,36 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "title": "Jornal Conti Tudo - Edição 99",
+            "cover": "http://api.casadiconti.com.br/storage/jornalcontitudo-ed67.png",
+            "link": "https://issuu.com/casadiconti/docs/jornal_conti_tudo_ed_99_virtual",
+            "created_at": "2019-11-01 11:34:30",
+            "updated_at": "2019-08-13 11:34:30"
+        },
+        {
+            "id": 2,
+            "title": "Jornal Conti Tudo - Edição 100",
+            "cover": "http://api.casadiconti.com.br/storage/jornalcontitudo-ed100.png",
+            "link": "https://issuu.com/casadiconti/docs/jornal_conti_tudo_ed_100_virtual",
+            "created_at": "2019-11-01 11:34:30",
+            "updated_at": "2019-08-13 11:34:30"
+        }
+    ],
+    "links": {
+        "first": "http://localhost:8000/api/magazines?page=1",
+        "last": "http://localhost:8000/api/magazines?page=1",
+        "prev": null,
+        "next": null
+    },
+    "meta": {
+        "current_page": 1,
+        "from": 1,
+        "last_page": 1,
+        "path": "http://localhost:8000/api/magazines",
+        "per_page": 15,
+        "to": 1,
+        "total": 1
+    }
+}
+

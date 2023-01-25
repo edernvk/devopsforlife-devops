@@ -1,0 +1,7 @@
+*.*
+*/*
+!users-avatars/default-avatar.jpg
+!magazines-covers/default-cover.png
+!users-avatars/bot.png
+!users-healthdocs/
+!.gitignore

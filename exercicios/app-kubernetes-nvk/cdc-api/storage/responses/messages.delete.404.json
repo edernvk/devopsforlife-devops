@@ -1,0 +1,4 @@
+{
+    "message": "No query results for model [App\\Message] 1",
+    "exception": "Symfony\\Component\\HttpKernel\\Exception\\NotFoundHttpException"
+}

@@ -1,0 +1,191 @@
+[
+    {
+        "id": 1,
+        "state": "Acre",
+        "acronym": "AC",
+        "created_at": "2019-08-12 14:49:37",
+        "updated_at": "2019-08-12 14:49:37"
+    },
+    {
+        "id": 2,
+        "state": "Alagoas",
+        "acronym": "AL",
+        "created_at": "2019-08-12 14:49:37",
+        "updated_at": "2019-08-12 14:49:37"
+    },
+    {
+        "id": 3,
+        "state": "Amazonas",
+        "acronym": "AM",
+        "created_at": "2019-08-12 14:49:37",
+        "updated_at": "2019-08-12 14:49:37"
+    },
+    {
+        "id": 4,
+        "state": "Amapá",
+        "acronym": "AP",
+        "created_at": "2019-08-12 14:49:37",
+        "updated_at": "2019-08-12 14:49:37"
+    },
+    {
+        "id": 5,
+        "state": "Bahia",
+        "acronym": "BA",
+        "created_at": "2019-08-12 14:49:38",
+        "updated_at": "2019-08-12 14:49:38"
+    },
+    {
+        "id": 6,
+        "state": "Ceará",
+        "acronym": "CE",
+        "created_at": "2019-08-12 14:49:38",
+        "updated_at": "2019-08-12 14:49:38"
+    },
+    {
+        "id": 7,
+        "state": "Distrito Federal",
+        "acronym": "DF",
+        "created_at": "2019-08-12 14:49:38",
+        "updated_at": "2019-08-12 14:49:38"
+    },
+    {
+        "id": 8,
+        "state": "Espírito Santo",
+        "acronym": "ES",
+        "created_at": "2019-08-12 14:49:38",
+        "updated_at": "2019-08-12 14:49:38"
+    },
+    {
+        "id": 9,
+        "state": "Goiás",
+        "acronym": "GO",
+        "created_at": "2019-08-12 14:49:38",
+        "updated_at": "2019-08-12 14:49:38"
+    },
+    {
+        "id": 10,
+        "state": "Maranhão",
+        "acronym": "MA",
+        "created_at": "2019-08-12 14:49:38",
+        "updated_at": "2019-08-12 14:49:38"
+    },
+    {
+        "id": 11,
+        "state": "Minas Gerais",
+        "acronym": "MG",
+        "created_at": "2019-08-12 14:49:38",
+        "updated_at": "2019-08-12 14:49:38"
+    },
+    {
+        "id": 12,
+        "state": "Mato Grosso do Sul",
+        "acronym": "MS",
+        "created_at": "2019-08-12 14:49:38",
+        "updated_at": "2019-08-12 14:49:38"
+    },
+    {
+        "id": 13,
+        "state": "Mato Grosso",
+        "acronym": "MT",
+        "created_at": "2019-08-12 14:49:38",
+        "updated_at": "2019-08-12 14:49:38"
+    },
+    {
+        "id": 14,
+        "state": "Pará",
+        "acronym": "PA",
+        "created_at": "2019-08-12 14:49:38",
+        "updated_at": "2019-08-12 14:49:38"
+    },
+    {
+        "id": 15,
+        "state": "Paraíba",
+        "acronym": "PB",
+        "created_at": "2019-08-12 14:49:38",
+        "updated_at": "2019-08-12 14:49:38"
+    },
+    {
+        "id": 16,
+        "state": "Pernambuco",
+        "acronym": "PE",
+        "created_at": "2019-08-12 14:49:38",
+        "updated_at": "2019-08-12 14:49:38"
+    },
+    {
+        "id": 17,
+        "state": "Piauí",
+        "acronym": "PI",
+        "created_at": "2019-08-12 14:49:38",
+        "updated_at": "2019-08-12 14:49:38"
+    },
+    {
+        "id": 18,
+        "state": "Paraná",
+        "acronym": "PR",
+        "created_at": "2019-08-12 14:49:38",
+        "updated_at": "2019-08-12 14:49:38"
+    },
+    {
+        "id": 19,
+        "state": "Rio de Janeiro",
+        "acronym": "RJ",
+        "created_at": "2019-08-12 14:49:39",
+        "updated_at": "2019-08-12 14:49:39"
+    },
+    {
+        "id": 20,
+        "state": "Rio Grande do Norte",
+        "acronym": "RN",
+        "created_at": "2019-08-12 14:49:39",
+        "updated_at": "2019-08-12 14:49:39"
+    },
+    {
+        "id": 21,
+        "state": "Rondônia",
+        "acronym": "RO",
+        "created_at": "2019-08-12 14:49:39",
+        "updated_at": "2019-08-12 14:49:39"
+    },
+    {
+        "id": 22,
+        "state": "Roraima",
+        "acronym": "RR",
+        "created_at": "2019-08-12 14:49:39",
+        "updated_at": "2019-08-12 14:49:39"
+    },
+    {
+        "id": 23,
+        "state": "Rio Grande do Sul",
+        "acronym": "RS",
+        "created_at": "2019-08-12 14:49:39",
+        "updated_at": "2019-08-12 14:49:39"
+    },
+    {
+        "id": 24,
+        "state": "Santa Catarina",
+        "acronym": "SC",
+        "created_at": "2019-08-12 14:49:39",
+        "updated_at": "2019-08-12 14:49:39"
+    },
+    {
+        "id": 25,
+        "state": "Sergipe",
+        "acronym": "SE",
+        "created_at": "2019-08-12 14:49:39",
+        "updated_at": "2019-08-12 14:49:39"
+    },
+    {
+        "id": 26,
+        "state": "São Paulo",
+        "acronym": "SP",
+        "created_at": "2019-08-12 14:49:39",
+        "updated_at": "2019-08-12 14:49:39"
+    },
+    {
+        "id": 27,
+        "state": "Tocantins",
+        "acronym": "TO",
+        "created_at": "2019-08-12 14:49:39",
+        "updated_at": "2019-08-12 14:49:39"
+    }
+]

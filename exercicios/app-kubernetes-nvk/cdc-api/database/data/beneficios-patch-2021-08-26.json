@@ -1,0 +1,54 @@
+{
+    "data": [
+        {
+            "partner": "Colégio Einstein",
+            "contact": "9 9776-2052 / 9 9709-2339",
+            "benefit": "20% de desconto nas mensalidade"
+        },
+        {
+            "partner": "Ama",
+            "contact": "3322-7088",
+            "benefit": "5% de desconto"
+        },
+        {
+            "partner": "Fitness Academia",
+            "contact": "9 9733-3233",
+            "benefit": "20% de desconto"
+        },
+        {
+            "partner": "Silvia Cosméticos",
+            "contact": "3341-4361",
+            "benefit": "10% a vista no dinheiro ou 5% no cartão de crédito"
+        },
+        {
+            "partner": "Drogaria Geli",
+            "contact": "3341-1611",
+            "benefit": "20% éticos/ 50% genéricos/ 10% perfumaria"
+        },
+        {
+            "partner": "Santa Rita",
+            "contact": "3341-1657",
+            "benefit": "15% de desconto"
+        },
+        {
+            "partner": "Ótica Elis",
+            "contact": "3321-2680",
+            "benefit": "20% à vista / 10% à prazo"
+        },
+        {
+            "partner": "Ótica Nacional",
+            "contact": "3323-7605",
+            "benefit": "20% à vista (exceto promoção) 15% à prazo (até 6x)"
+        },
+        {
+            "partner": "Ótica Silvia",
+            "contact": "3323-3610 / 3329-2699",
+            "benefit": "40% à vista nas armações nacional / 10% na lente à prazo / divide em até 10x no cartão"
+        },
+        {
+            "partner": "Open Arena Futevôlei",
+            "contact": "(18) 9 9607-1037",
+            "benefit": "40% à vista nas armações nacional / 10% na lente à prazo / divide em até 10x no cartão"
+        }
+    ]
+}

@@ -1,0 +1,51 @@
+---
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: cdcdigital-backend-beta1
+spec:
+  replicas: 2
+  selector:
+    matchLabels:
+      app: cdcdigital-backend-beta1
+  template:
+    metadata:
+      labels:
+        app: cdcdigital-backend-beta1
+    spec:
+      containers:
+      - name: cdcdigital-backend-beta1
+        image: ederpfonseca/cdcdigital:beta1
+        ports:
+        - containerPort: 8002
+---
+apiVersion: v1
+kind: Service
+metadata:
+  name: cdcdigital-backend-beta1
+spec:
+  type: ClusterIP
+  selector:
+    app: cdcdigital-backend-beta1
+  ports:
+  - protocol: TCP
+    port: 8080
+    targetPort: 8080
+---
+apiVersion: networking.k8s.io/v1
+kind: Ingress
+metadata:
+  name: my-app
+spec:
+  ingressClassName: nginx
+  rules:
+  - host: api-beta.rancher.novakio.tech
+    http:
+      paths:
+      - backend:
+          service:
+            name: my-app
+            port:
+              number: 8002
+        path: /
+        pathType: Prefix

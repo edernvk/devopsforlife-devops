@@ -1,0 +1,192 @@
+[
+  {
+    "name": "Adilson Rosa",
+    "type": "Gerente Área",
+    "email": "adilson.rosa@casadiconti.com.br"
+  },
+  {
+    "name": "Aurélio Machado",
+    "type": "Gerente Área",
+    "email": "aurelio.machado@casadiconti.com.br"
+  },
+  {
+    "name": "Carlos Eduardo",
+    "type": "Gerente Área",
+    "email": "carlos.rodrigues@casadiconti.com.br"
+  },
+  {
+    "name": "Dizionei Carneiro",
+    "type": "Gerente Área",
+    "email": "dizionei.carneiro@casadiconti.com.br"
+  },
+  {
+    "name": "Fabio Fernandes",
+    "type": "Gerente Área",
+    "email": "fabio.fernandes@casadiconti.com.br"
+  },
+  {
+    "name": "Marcos Prado",
+    "type": "Gerente Área",
+    "email": "marcos.prado@casadiconti.com.br"
+  },
+  {
+    "name": "Paulo rocha",
+    "type": "Gerente Área",
+    "email": "paulo.rocha@casadiconti.com.br"
+  },
+  {
+    "name": "Pedro Belusso",
+    "type": "Gerente Área",
+    "email": "pedro.belusso@casadiconti.com.br"
+  },
+  {
+    "name": "Reginaldo Costa",
+    "type": "Gerente Área",
+    "email": "reginaldo.costa@casadiconti.com.br"
+  },
+  {
+    "name": "Sidiney Alves",
+    "type": "Gerente Área",
+    "email": "sidiney.alves@casadiconti.com.br"
+  },
+  {
+    "name": "Wilian Araujo",
+    "type": "Gerente Área",
+    "email": "wilian.araujo@casadiconti.com.br"
+  },
+  {
+    "name": "Adriana Veras",
+    "type": "Supervisor Área",
+    "email": "adriana.veras@casadiconti.com.br"
+  },
+  {
+    "name": "Flavio Lenzi",
+    "type": "Supervisor Área",
+    "email": "flavio.lenzi@casadiconti.com.br"
+  },
+  {
+    "name": "Gildemar Azevedo",
+    "type": "Supervisor Área",
+    "email": "gildemar.azevedo@casadiconti.com.br"
+  },
+  {
+    "name": "Caio Cesar",
+    "type": "Supervisor Área",
+    "email": "caio.duarte@casadiconti.com.br"
+  },
+  {
+    "name": "Danilo Moreira",
+    "type": "Supervisor Área",
+    "email": "danilo.moreira@casadiconti.com.br"
+  },
+  {
+    "name": "Eduardo Oliveira",
+    "type": "Supervisor Área",
+    "email": "eduardo.oliveira@casadiconti.com.br"
+  },
+  {
+    "name": "Filipe Santo",
+    "type": "Supervisor Área",
+    "email": "filipe.santo@casadiconti.com.br"
+  },
+  {
+    "name": "Lucio Fulaneto",
+    "type": "Supervisor Área",
+    "email": "lucio.fulaneto@casadiconti.com.br"
+  },
+  {
+    "name": "Luiz Silva",
+    "type": "Supervisor Área",
+    "email": "luiz.silva@casadiconti.com.br"
+  },
+  {
+    "name": "Marcio Martins",
+    "type": "Supervisor Área",
+    "email": "marcio.martins@casadiconti.com.br"
+  },
+  {
+    "name": "Marcio Strohschein",
+    "type": "Supervisor Área",
+    "email": "marcio.strohschein@casadiconti.com.br"
+  },
+  {
+    "name": "Ophil Junior",
+    "type": "Supervisor Área",
+    "email": "ophil.junior@casadiconti.com.br"
+  },
+  {
+    "name": "Tiago Gallina",
+    "type": "Supervisor Área",
+    "email": "tiago.gallina@casadiconti.com.br"
+  },
+  {
+    "name": "Vinicius Goes",
+    "type": "Supervisor Área",
+    "email": "vinicius.goes@casadiconti.com.br"
+  },
+  {
+    "name": "Diretoria Comercial",
+    "type": "Gerente Territorial",
+    "email": "flavio.siqueira@casadionti.com.br"
+  },
+  {
+    "name": "Diretoria Comercial",
+    "type": "Gerente Territorial",
+    "email": "carlos.salvi@casadiconti.com.br"
+  },
+  {
+    "name": "Diretoria Comercial",
+    "type": "Gerente Territorial",
+    "email": "marcos.carvalho@casadiconti.com.br"
+  },
+  {
+    "name": "Marcio Dellovo",
+    "type": "Gerente Territorial",
+    "email": "marcio.dellovo@casadiconti.com.br"
+  },
+  {
+    "name": "Rogério Mendonça",
+    "type": "Gerente Territorial",
+    "email": "rogerio.mendonca@casadiconti.com.br"
+  },
+  {
+    "name": "Alex Catani",
+    "type": "Gerente Filial",
+    "email": "alex.catani@casadiconti.com.br"
+  },
+  {
+    "name": "Leonardo Freiria",
+    "type": "Gerente Filial",
+    "email": "leonardo.freiria@casadiconti.com.br"
+  },
+  {
+    "name": "Marcelo Frabetti",
+    "type": "Gerente Filial",
+    "email": "marcelo.correa@casadiconti.com.br"
+  },
+  {
+    "name": "Marcio Donega",
+    "type": "Gerente Filial",
+    "email": "marcio.donega@casadiconti.com.br"
+  },
+  {
+    "name": "Rafael Chiqueto",
+    "type": "Gerente Filial",
+    "email": "rafael.rodrigues@casadiconti.com.br"
+  },
+  {
+    "name": "Rodrigo Afonso",
+    "type": "Gerente Filial",
+    "email": "rodrigo.afonso@casadiconti.com.br"
+  },
+  {
+    "name": "Victor Picolo",
+    "type": "Gerente Filial",
+    "email": "victor.picolo@casadiconti.com.br"
+  },
+  {
+    "name": "Roberto Salvador",
+    "type": "Gerente Filiais",
+    "email": "roberto.salvador@casadiconti.com.br"
+  }
+]

@@ -1,0 +1,19 @@
+{
+    "id": 1,
+    "name": "John Doe",
+    "email": "johndoe@casadiconti.com.br",
+    "registration": "99999",
+    "mobile": "(99) 99999-9999",
+    "avatar": "/storage/user/asdjauisdhasud.jpg",
+    "city_id": 4630,
+    "city": {
+        "id": 4630,
+        "name": "Rodeio",
+        "state_id": 24,
+        "created_at": null,
+        "updated_at": null
+    },
+    "team_id": 1,
+    "team": null,
+    "created_at": "2019-08-13 09:31:24"
+}

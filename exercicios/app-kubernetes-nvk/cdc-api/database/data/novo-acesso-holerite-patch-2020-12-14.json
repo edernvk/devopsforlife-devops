@@ -1,0 +1,309 @@
+{
+    "data": [
+        {
+            "cpf": "298.600.198-00",
+            "email": "alex.cardoso@casadiconti.com.br",
+            "password": "ac08cdc1220"
+        },
+        {
+            "cpf": "204.053.268-40",
+            "email": "alexandre.ricardo@casadiconti.com.br",
+            "password": "ar02cdc1220"
+        },
+        {
+            "cpf": "349.534.198-63",
+            "email": "aline.souza@casadiconti.com.br",
+            "password": "as20cdc1120"
+        },
+        {
+            "cpf": "498.582.438-04",
+            "email": "ana.modesto@casadiconti.com.br",
+            "password": "am03cdc1120"
+        },
+        {
+            "cpf": "469.436.608-45",
+            "email": "ana.passaros@casadiconti.com.br",
+            "password": "as03cdc1120"
+        },
+        {
+            "cpf": "120.636.138-77",
+            "email": "antenor.junior@casadiconti.com.br",
+            "password": ""
+        },
+        {
+            "cpf": "500.782.438-07",
+            "email": "bianca.almeida@casadiconti.com.br",
+            "password": "ba03cdc1120"
+        },
+        {
+            "cpf": "518.365.198-18",
+            "email": "carlos.santos@casadiconti.com.br",
+            "password": "cs03cdc1120"
+        },
+        {
+            "cpf": "391.536.768-07",
+            "email": "cintia.jesus@casadiconti.com.br",
+            "password": "cj13cdc1120"
+        },
+        {
+            "cpf": "346.288.138-84",
+            "email": "claudemir.fontes@casadiconti.com.br",
+            "password": "cf02cdc1220"
+        },
+        {
+            "cpf": "075.204.483-47",
+            "email": "cristhian.garcia@casadiconti.com.br",
+            "password": ""
+        },
+        {
+            "cpf": "355.208.598-09",
+            "email": "devanir.barreiros@casadiconti.com.br",
+            "password": "db20cdc1120"
+        },
+        {
+            "cpf": "327.637.828-09",
+            "email": "douglas.toledo@casadiconti.com.br",
+            "password": "dt20cdc1120"
+        },
+        {
+            "cpf": "219.601.978-00",
+            "email": "douglas.peron@casadiconti.com.br",
+            "password": "dp02cdc1220"
+        },
+        {
+            "cpf": "429.560.448-85",
+            "email": "eduarda.oliveira@casadiconti.com.br",
+            "password": "eo03cdc1120"
+        },
+        {
+            "cpf": "059.063.489-56",
+            "email": "emerson.santos@casadiconti.com.br",
+            "password": "es20cdc1120"
+        },
+        {
+            "cpf": "409.633.778-17",
+            "email": "everton.oliveira@casadiconti.com.br",
+            "password": "eo20cdc1120"
+        },
+        {
+            "cpf": "456.734.328-01",
+            "email": "felipe.oliveira@casadiconti.com.br",
+            "password": "fo20cdc1120"
+        },
+        {
+            "cpf": "415.970.458-10",
+            "email": "fernando.vaz@casadiconti.com.br",
+            "password": "fv17cdc1120"
+        },
+        {
+            "cpf": "508.577.748-40",
+            "email": "gabriel.panzner@casadiconti.com.br",
+            "password": "gp11cdc1220"
+        },
+        {
+            "cpf": "436.941.408-32",
+            "email": "gabriela.fantozzi@casadiconti.com.br",
+            "password": "gf03cdc1120"
+        },
+        {
+            "cpf": "528.804.528-30",
+            "email": "gabrielly.assis@casadiconti.com.br",
+            "password": "ga03cdc1120"
+        },
+        {
+            "cpf": "446.664.518-38",
+            "email": "gean.silva@casadiconti.com.br",
+            "password": "gs03cdc1120"
+        },
+        {
+            "cpf": "064.960.529-21",
+            "email": "gesiele.frez@casadiconti.com.br",
+            "password": "gf17cdc1120"
+        },
+        {
+            "cpf": "479.970.048-07",
+            "email": "giovana.candido@casadiconti.com.br",
+            "password": "gc03cdc1120"
+        },
+        {
+            "cpf": "087.651.579-07",
+            "email": "giovanna.oliveira@casadiconti.com.br",
+            "password": "go18cdc1120"
+        },
+        {
+            "cpf": "464.386.018-96",
+            "email": "giovanna.paris@casadiconti.com.br",
+            "password": "gp03cdc1120"
+        },
+        {
+            "cpf": "462.772.298-26",
+            "email": "gustavo.soares@casadiconti.com.br",
+            "password": "gs17cdc1120"
+        },
+        {
+            "cpf": "426.363.728-30",
+            "email": "gustavo.mailho@casadiconti.com.br",
+            "password": "gm21cdc1120"
+        },
+        {
+            "cpf": "090.758.119-69",
+            "email": "iluandra.borges@casadiconti.com.br",
+            "password": "ib08cdc1220"
+        },
+        {
+            "cpf": "460.470.438-44",
+            "email": "isabella.nascimento@casadiconti.com.br",
+            "password": "in11cdc1220"
+        },
+        {
+            "cpf": "111.781.339-82",
+            "email": "kaio.silva@casadiconti.com.br",
+            "password": "ks17cdc1120"
+        },
+        {
+            "cpf": "439.560.218-51",
+            "email": "kamila.moreira@casadiconti.com.br",
+            "password": "km03cdc1120"
+        },
+        {
+            "cpf": "490.065.168-05",
+            "email": "laura.silva@casadiconti.com.br",
+            "password": "ls17cdc1120"
+        },
+        {
+            "cpf": "390.175.468-75",
+            "email": "leandro.dossantos@casadiconti.com.br",
+            "password": ""
+        },
+        {
+            "cpf": "468.832.418-92",
+            "email": "leandro.garcia@casadiconti.com.br",
+            "password": "lg12cdc20"
+        },
+        {
+            "cpf": "483.227.718-94",
+            "email": "leonardo.godoy@casadiconti.com.br",
+            "password": "lhg21cdc1120"
+        },
+        {
+            "cpf": "068.028.379-00",
+            "email": "levi.daluzo@casadiconti.com.br",
+            "password": "ld02cdc1220"
+        },
+        {
+            "cpf": "493.932.118-50",
+            "email": "livia.valini@casadiconti.com.br",
+            "password": "lv03cdc1120"
+        },
+        {
+            "cpf": "485.953.118-38",
+            "email": "luiz.guilherme@casadiconti.com.br",
+            "password": "lz20cdc1120"
+        },
+        {
+            "cpf": "436.313.348-18",
+            "email": "manoel.oliveira@casadiconti.com.br",
+            "password": ""
+        },
+        {
+            "cpf": "473.705.378-38",
+            "email": "marcus.santos@casadiconti.com.br",
+            "password": "ms20cdc1120"
+        },
+        {
+            "cpf": "489.008.818-09",
+            "email": "marlon.pacheco@casadiconti.com.br",
+            "password": ""
+        },
+        {
+            "cpf": "455.427.938-35",
+            "email": "matheus.amorim@casadiconti.com.br",
+            "password": "ma02cdc1220"
+        },
+        {
+            "cpf": "464.224.388-77",
+            "email": "matheus.costa@casadiconti.com.br",
+            "password": "mc20cdc1120"
+        },
+        {
+            "cpf": "097.608.829-06",
+            "email": "matheus.barbosa@casadiconti.com.br",
+            "password": ""
+        },
+        {
+            "cpf": "441.420.938-27",
+            "email": "mauricio.junior@casadiconti.com.br",
+            "password": "mj21cdc1120"
+        },
+        {
+            "cpf": "529.276.158-37",
+            "email": "mayara.souza@casadiconti.com.br",
+            "password": ""
+        },
+        {
+            "cpf": "504.538.428-79",
+            "email": "mayla.oliveira@casadiconti.com.br",
+            "password": "mco03cdc1120"
+        },
+        {
+            "cpf": "360.835.528-69",
+            "email": "murilo.portugal@casadiconti.com.br",
+            "password": ""
+        },
+        {
+            "cpf": "522.143.638-82",
+            "email": "nicole.soares@casadiconti.com.br",
+            "password": "ncs03cdc1120"
+        },
+        {
+            "cpf": "448.812.758-44",
+            "email": "patrick.silva@casadiconti.com.br",
+            "password": "ps13cdc1120"
+        },
+        {
+            "cpf": "092.242.379-24",
+            "email": "paulo.riedi@casadiconti.com.br",
+            "password": "pr08cdc1120"
+        },
+        {
+            "cpf": "475.281.168-58",
+            "email": "pedro.vieira@casadiconti.com.br",
+            "password": "pv20cdc1120"
+        },
+        {
+            "cpf": "539.156.148-58",
+            "email": "rafaela.albino@casadiconti.com.br",
+            "password": "ra03cdc1120"
+        },
+        {
+            "cpf": "538.180.958-17",
+            "email": "rodrigo.ozorio@casadiconti.com.br",
+            "password": "ro03cdc1120"
+        },
+        {
+            "cpf": "309.301.318-60",
+            "email": "rodrigo.inacio@casadiconti.com.br",
+            "password": "ri11cdc1220"
+        },
+        {
+            "cpf": "486.212.618-98",
+            "email": "samuel.rocha@casadiconti.com.br",
+            "password": "srs20cdc1120"
+        },
+        {
+            "cpf": "298.296.258-69",
+            "email": "silvana.almeida@casadiconti.com.br",
+            "password": "sa10cdc1120"
+        },
+        {
+            "cpf": "353.288.168-38",
+            "email": "thiago.soler@casadiconti.com.br",
+            "password": "ts20cdc1120"
+        },
+        {
+            "cpf": "138.254.918-03",
+            "email": "wagner.machado@casadiconti.com.br",
+            "password": "wm11cdc1220"
+        }
+    ]
+}

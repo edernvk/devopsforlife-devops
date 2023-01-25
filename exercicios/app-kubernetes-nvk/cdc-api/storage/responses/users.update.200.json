@@ -1,0 +1,19 @@
+{
+    "id": 1,
+    "name": "John Doe Updated",
+    "email": "johndoe@casadiconti.com.br",
+    "registration": "999991",
+    "mobile": "(99) 99999-9991",
+    "avatar": "/storage/user/asdjauisdhasud_updated.jpg",
+    "city_id": 4631,
+    "city": {
+        "id": 4631,
+        "name": "Romelândia",
+        "state_id": 24,
+        "created_at": null,
+        "updated_at": null
+    },
+    "team_id": 2,
+    "team": null,
+    "created_at": "2019-08-13 09:31:24"
+}

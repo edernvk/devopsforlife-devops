@@ -1,0 +1,121 @@
+{
+    "state": {
+        "id": 1,
+        "state": "Acre",
+        "acronym": "AC",
+        "created_at": "2019-08-12 14:49:37",
+        "updated_at": "2019-08-12 14:49:37"
+    },
+    "cities": [
+        {
+            "id": 1,
+            "name": "Acrelândia",
+            "state_id": 1
+        },
+        {
+            "id": 2,
+            "name": "Assis Brasil",
+            "state_id": 1
+        },
+        {
+            "id": 3,
+            "name": "Brasiléia",
+            "state_id": 1
+        },
+        {
+            "id": 4,
+            "name": "Bujari",
+            "state_id": 1
+        },
+        {
+            "id": 5,
+            "name": "Capixaba",
+            "state_id": 1
+        },
+        {
+            "id": 6,
+            "name": "Cruzeiro do Sul",
+            "state_id": 1
+        },
+        {
+            "id": 7,
+            "name": "Epitaciolândia",
+            "state_id": 1
+        },
+        {
+            "id": 8,
+            "name": "Feijó",
+            "state_id": 1
+        },
+        {
+            "id": 9,
+            "name": "Jordão",
+            "state_id": 1
+        },
+        {
+            "id": 10,
+            "name": "Mâncio Lima",
+            "state_id": 1
+        },
+        {
+            "id": 11,
+            "name": "Manoel Urbano",
+            "state_id": 1
+        },
+        {
+            "id": 12,
+            "name": "Marechal Thaumaturgo",
+            "state_id": 1
+        },
+        {
+            "id": 13,
+            "name": "Plácido de Castro",
+            "state_id": 1
+        },
+        {
+            "id": 14,
+            "name": "Porto Acre",
+            "state_id": 1
+        },
+        {
+            "id": 15,
+            "name": "Porto Walter",
+            "state_id": 1
+        },
+        {
+            "id": 16,
+            "name": "Rio Branco",
+            "state_id": 1
+        },
+        {
+            "id": 17,
+            "name": "Rodrigues Alves",
+            "state_id": 1
+        },
+        {
+            "id": 18,
+            "name": "Santa Rosa do Purus",
+            "state_id": 1
+        },
+        {
+            "id": 19,
+            "name": "Sena Madureira",
+            "state_id": 1
+        },
+        {
+            "id": 20,
+            "name": "Senador Guiomard",
+            "state_id": 1
+        },
+        {
+            "id": 21,
+            "name": "Tarauacá",
+            "state_id": 1
+        },
+        {
+            "id": 22,
+            "name": "Xapuri",
+            "state_id": 1
+        }
+    ]
+}

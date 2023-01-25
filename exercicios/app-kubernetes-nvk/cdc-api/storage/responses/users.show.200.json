@@ -1,0 +1,19 @@
+{
+    "id": 1,
+    "name": "John Doe",
+    "email": "johndoe@penze.com.br",
+    "registration": "999999",
+    "mobile": "999999",
+    "avatar": null,
+    "city_id": 4823,
+    "city": {
+        "id": 4823,
+        "name": "Assis",
+        "state_id": 26,
+        "created_at": null,
+        "updated_at": null
+    },
+    "team_id": 1,
+    "team": null,
+    "created_at": "2019-08-12 14:49:49"
+}

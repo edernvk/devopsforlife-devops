@@ -1,0 +1,1372 @@
+{
+    "divisoes": [
+        {
+            "nome": "Administração",
+            "cor": "#960000",
+            "numeros_sem_area": [],
+            "areas": [
+                {
+                    "nome": "Suporte Administrativo",
+                    "numeros": [
+                        {
+                            "nome": "Manoel",
+                            "ramal": 9094
+                        }
+                    ]
+                },
+                {
+                    "nome": "Copa",
+                    "numeros": [
+                        {
+                            "nome": "Maria Inês",
+                            "ramal": 9148
+                        }
+                    ]
+                },
+                {
+                    "nome": "Diretoria Executiva",
+                    "numeros": [
+                        {
+                            "nome": "Sr. Gerson",
+                            "ramal": 9050
+                        },
+                        {
+                            "nome": "Gerson Filho",
+                            "ramal": 9023
+                        },
+                        {
+                            "nome": "Susana",
+                            "ramal": 9211
+                        },
+                        {
+                            "nome": "Lucilla",
+                            "ramal": 9049
+                        },
+                        {
+                            "nome": "Ariovaldo",
+                            "ramal": 9044
+                        },
+                        {
+                            "nome": "Sérgio Coutinho",
+                            "ramal": 9048
+                        }
+                    ]
+                },
+                {
+                    "nome": "Recepção",
+                    "numeros": [
+                        {
+                            "nome": "Maria Alice / Valéria",
+                            "ramal": "18 3341-9000 / 9002"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "nome": "Comercial",
+            "cor": "#984807",
+            "numeros_sem_area": [
+                {
+                    "nome": "Aprendiz",
+                    "ramal": 9249
+                },
+                {
+                    "nome": "Aprendiz",
+                    "ramal": 9241
+                },
+                {
+                    "nome": "Aprendiz",
+                    "ramal": 9247
+                },
+                {
+                    "nome": "Carlos Bitencourt",
+                    "ramal": 9061
+                },
+                {
+                    "nome": "Fabio",
+                    "ramal": 9493
+                },
+                {
+                    "nome": "Flavio Siqueira",
+                    "ramal": 9017
+                },
+                {
+                    "nome": "Leandro",
+                    "ramal": 9248
+                },
+                {
+                    "nome": "Lais",
+                    "ramal": 9483
+                },
+                {
+                    "nome": "Marilda",
+                    "ramal": 9058
+                },
+                {
+                    "nome": "Sergio Luiz",
+                    "ramal": 9088
+                },
+                {
+                    "nome": "Vania",
+                    "ramal": 9087
+                },
+                {
+                    "nome": "Livia Ribeiro",
+                    "ramal": 9001
+                }
+            ],
+            "areas": [
+                {
+                    "nome": "Central de Vendas",
+                    "numeros": [
+                        {
+                            "nome": "Adriane",
+                            "ramal": 9234
+                        },
+                        {
+                            "nome": "Cesar Q. / Henrique",
+                            "ramal": 9018
+                        },
+                        {
+                            "nome": "Fernando / Néia",
+                            "ramal": 9021
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "nome": "Contabilidade",
+            "cor": "#702488",
+            "numeros_sem_area": [
+                {
+                    "nome": "Bruno",
+                    "ramal": 9097
+                },
+                {
+                    "nome": "Carlos Rafael",
+                    "ramal": 9127
+                },
+                {
+                    "nome": "Jeferson",
+                    "ramal": 9020
+                },
+                {
+                    "nome": "Pedro",
+                    "ramal": 9109
+                }
+            ],
+            "areas": []
+        },
+        {
+            "nome": "Controladoria",
+            "cor": "#008A3E",
+            "numeros_sem_area": [
+                {
+                    "nome": "Everson",
+                    "ramal": 9312
+                },
+                {
+                    "nome": "João Vitor",
+                    "ramal": 9703
+                },
+                {
+                    "nome": "Marcos",
+                    "ramal": 9149
+                },
+                {
+                    "nome": "Vitoria",
+                    "ramal": 9730
+                },
+                {
+                    "nome": "Vinicius",
+                    "ramal": 9033
+                }
+            ],
+            "areas": []
+        },
+        {
+            "nome": "Fábrica",
+            "cor": "#002060",
+            "numeros_sem_area": [],
+            "areas": [
+                {
+                    "nome": "Contini",
+                    "numeros": [
+                        {
+                            "nome": "Caldeira - CDC",
+                            "ramal": 9110
+                        },
+                        {
+                            "nome": "Gilmar",
+                            "ramal": 9046
+                        },
+                        {
+                            "nome": "Laboratório - Miguel",
+                            "ramal": 9047
+                        },
+                        {
+                            "nome": "Marcos (Belo)",
+                            "ramal": 9035
+                        }
+                    ]
+                },
+                {
+                    "nome": "Serviços Gerais",
+                    "numeros": [
+                        {
+                            "nome": "Elétrica - Adriano",
+                            "ramal": 9146
+                        },
+                        {
+                            "nome": "Elétrica - Elias",
+                            "ramal": 9036
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "nome": "Qualidade e Meio Ambiente",
+            "cor": "#0070C0",
+            "numeros_sem_area": [],
+            "areas": [
+                {
+                    "nome": "Gerência de Qualidade e Meio Ambiente",
+                    "numeros": [
+                        {
+                            "nome": "Sueli",
+                            "ramal": "9009"
+                        }
+                    ]
+                },
+                {
+                    "nome": "Controle de Qualidade",
+                    "numeros": [
+                        {
+                            "nome": "Laboratório de cromatografia",
+                            "ramal": "9332"
+                        },
+                        {
+                            "nome": "Laboratório físico-químico",
+                            "ramal": "9093 / 9160"
+                        },
+                        {
+                            "nome": "Laboratório de microbiologia",
+                            "ramal": "9117"
+                        },
+                        {
+                            "nome": "Letícia",
+                            "ramal": "9492"
+                        },
+                        {
+                            "nome": "Renato",
+                            "ramal": "9339"
+                        }
+                    ]
+                },
+                {
+                    "nome": "ETEI",
+                    "numeros": [
+                        {
+                            "nome": "Vinícius / Operação",
+                            "ramal": "9714 / 99601-3965"
+                        }
+                    ]
+                },
+                {
+                    "nome": "Padronização",
+                    "numeros": [
+                        {
+                            "nome": "Laura",
+                            "ramal": "9492 / 9136"
+                        }
+                    ]
+                },
+                {
+                    "nome": "Sustentabilidade",
+                    "numeros": [
+                        {
+                            "nome": "Márcio Galli",
+                            "ramal": "9316 / 99141-7908"
+                        }
+                    ]
+                },
+                {
+                    "nome": "Xaroparia",
+                    "numeros": [
+                        {
+                            "nome": "Paulo Rogério / Operação",
+                            "ramal": "9124"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "nome": "Processo",
+            "cor": "#0070C0",
+            "numeros_sem_area": [],
+            "areas": [
+                {
+                    "nome": "Gerência de Processo",
+                    "numeros": [
+                        {
+                            "nome": "Peter",
+                            "ramal": 9051
+                        }
+                    ]
+                },
+                {
+                    "nome": "Suporte de Processo",
+                    "numeros": [
+                        {
+                            "nome": "Rodolfo e Heitor",
+                            "ramal": 9440
+                        }
+                    ]
+                },
+                {
+                    "nome": "Processo",
+                    "numeros": [
+                        {
+                            "nome": "Adega",
+                            "ramal": 9138
+                        },
+                        {
+                            "nome": "Cervejeiros",
+                            "ramal": 9057
+                        },
+                        {
+                            "nome": "Fabricação / Supervisório",
+                            "ramal": 9101
+                        },
+                        {
+                            "nome": "Filtração",
+                            "ramal": 9143
+                        },
+                        {
+                            "nome": "Silos - Márcio",
+                            "ramal": 9465
+                        },
+                        {
+                            "nome": "Xaroparia",
+                            "ramal": 9124
+                        }
+                    ]
+                },
+                {
+                    "nome": "Chopp",
+                    "numeros": [
+                        {
+                            "nome": "João Paulo / Angelo",
+                            "ramal": 9111
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "nome": "Produção / Envase",
+            "cor": "#0070C0",
+            "numeros_sem_area": [],
+            "areas": [
+                {
+                    "nome": "Gerência de Produção",
+                    "numeros": [
+                        {
+                            "nome": "Nelson",
+                            "ramal": 9016
+                        }
+                    ]
+                },
+                {
+                    "nome": "Supervisores Envase",
+                    "numeros": [
+                        {
+                            "nome": "Sup. Envase Maeda",
+                            "ramal": 9168
+                        },
+                        {
+                            "nome": "Sup. de Envases Linhas A e E",
+                            "ramal": 9484
+                        },
+                        {
+                            "nome": "Sup. de Envases Linhas B e C",
+                            "ramal": 9037
+                        },
+                        {
+                            "nome": "Sup. de Envase Linha D",
+                            "ramal": 9485
+                        }
+                    ]
+                },
+                {
+                    "nome": "Linhas",
+                    "numeros": [
+                        {
+                            "nome": "Linhas A e B",
+                            "ramal": 9135
+                        },
+                        {
+                            "nome": "Linha C",
+                            "ramal": 9092
+                        },
+                        {
+                            "nome": "Linha D",
+                            "ramal": 9141
+                        },
+                        {
+                            "nome": "Linha E",
+                            "ramal": 9171
+                        }
+                    ]
+                },
+                {
+                    "nome": "Movelog",
+                    "numeros": [
+                        {
+                            "nome": "Movelog - Linha E (Cristiano)",
+                            "ramal": 9340
+                        }
+                    ]
+                },
+                {
+                    "nome": "Manutenção Mecânica e Utilidades",
+                    "numeros": [
+                        {
+                            "nome": "Sup. Mecânico - Jair",
+                            "ramal": "9068"
+                        },
+                        {
+                            "nome": "Manutenção Mecanica",
+                            "ramal": "9487 / 9488"
+                        },
+                        {
+                            "nome": "Mecânica",
+                            "ramal": "9322"
+                        },
+                        {
+                            "nome": "Caldeira - CVJ",
+                            "ramal": 9142
+                        },
+                        {
+                            "nome": "Casa de Máquinas",
+                            "ramal": 9115
+                        }
+                    ]
+                },
+                {
+                    "nome": "Manutenção Elétrica",
+                    "numeros": [
+                        {
+                            "nome": "Sup. Elétrica - Marcos Paulo",
+                            "ramal": 9071
+                        },
+                        {
+                            "nome": "Manutenção Elétrica",
+                            "ramal": "9486 / 9090"
+                        },
+                        {
+                            "nome": "Automação",
+                            "ramal": 9167
+                        },
+                        {
+                            "nome": "Instrumentação",
+                            "ramal": 9107
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "nome": "PCM",
+            "cor": "#595959",
+            "numeros_sem_area": [
+                {
+                    "nome": "Equipe PCM",
+                    "ramal": 9318
+                },
+                {
+                    "nome": "Supervisor Cláudio",
+                    "ramal": 9043
+                }
+            ],
+            "areas": []
+        },
+        {
+            "nome": "Financeiro",
+            "cor": "#702488",
+            "numeros_sem_area": [],
+            "areas": [
+                {
+                    "nome": "Gerência do Financeiro",
+                    "numeros": [
+                        {
+                            "nome": "Solidéia",
+                            "ramal": 9006
+                        }
+                    ]
+                },
+                {
+                    "nome": "Contas a Pagar ",
+                    "numeros": [
+                        {
+                            "nome": "Aprendiz Financeiro",
+                            "ramal": 9137
+                        },
+                        {
+                            "nome": "Bruno Ricardo",
+                            "ramal": 9013
+                        },
+                        {
+                            "nome": "Cesar",
+                            "ramal": 9716
+                        },
+                        {
+                            "nome": "Elen",
+                            "ramal": 9235
+                        },
+                        {
+                            "nome": "Franciele",
+                            "ramal": 9078
+                        },
+                        {
+                            "nome": "Josué",
+                            "ramal": 9026
+                        },
+                        {
+                            "nome": "Leonardo",
+                            "ramal": 9073
+                        },
+                        {
+                            "nome": "Patricia",
+                            "ramal": 9602
+                        },
+                        {
+                            "nome": "Zé Carlos",
+                            "ramal": 9025
+                        }
+                    ]
+                },
+                {
+                    "nome": "Contas a Receber / Tesouraria",
+                    "numeros": [
+                        {
+                            "nome": "Daniela",
+                            "ramal": 9056
+                        },
+                        {
+                            "nome": "Ederson",
+                            "ramal": 9060
+                        },
+                        {
+                            "nome": "Elza",
+                            "ramal": 9028
+                        },
+                        {
+                            "nome": "Felipe",
+                            "ramal": 9070
+                        },
+                        {
+                            "nome": "Giovana",
+                            "ramal": 9328
+                        }
+                    ]
+                },
+                {
+                    "nome": "Crédito",
+                    "numeros": [
+                        {
+                            "nome": "Ana Clara",
+                            "ramal": 9076
+                        },
+                        {
+                            "nome": "Lais Monique",
+                            "ramal": 9250
+                        },
+                        {
+                            "nome": "Sônia",
+                            "ramal": 9027
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "nome": "Fiscal",
+            "cor": "#702488",
+            "numeros_sem_area": [
+                {
+                    "nome": "Daniela",
+                    "ramal": 9218
+                },
+                {
+                    "nome": "Eliana",
+                    "ramal": 9012
+                },
+                {
+                    "nome": "Flavia",
+                    "ramal": 9079
+                },
+                {
+                    "nome": "Joice",
+                    "ramal": 9724
+                },
+                {
+                    "nome": "Ricardo",
+                    "ramal": 9236
+                },
+                {
+                    "nome": "Selma",
+                    "ramal": 9053
+                },
+                {
+                    "nome": "Val",
+                    "ramal": 9039
+                }
+            ],
+            "areas": [
+                {
+                    "nome": "Ativo Imobilizado / Comodato",
+                    "numeros": [
+                        {
+                            "nome": "Claudia",
+                            "ramal": 9072
+                        },
+                        {
+                            "nome": "Cristiano",
+                            "ramal": 9008
+                        },
+                        {
+                            "nome": "Gabriel",
+                            "ramal": 9721
+                        },
+                        {
+                            "nome": "Matheus",
+                            "ramal": 9717
+                        }
+
+                    ]
+                },
+                {
+                    "nome": "Faturamento",
+                    "numeros": [
+                        {
+                            "nome": "Giovana",
+                            "ramal": 9133
+                        },
+                        {
+                            "nome": "Marcelo",
+                            "ramal": 9186
+                        },
+                        {
+                            "nome": "Marlon",
+                            "ramal": 9727
+                        },
+                        {
+                            "nome": "Nilton",
+                            "ramal": 9019
+                        },
+                        {
+                            "nome": "Wellington",
+                            "ramal": 9102
+                        }
+                    ]
+                },
+                {
+                    "nome": "Seguro Transportes",
+                    "numeros": [
+                        {
+                            "nome": "Bete",
+                            "ramal": 9075
+                        },
+                        {
+                            "nome": "Cristiana",
+                            "ramal": 9718
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "nome": "Filial CM",
+            "cor": "#4A452A",
+            "numeros_sem_area": [],
+            "areas": [
+                {
+                    "nome": "Administrativo",
+                    "numeros": [
+                        {
+                            "nome": "Leonardo",
+                            "ramal": 9129
+                        }
+                    ]
+                },
+                {
+                    "nome": "Comercial",
+                    "numeros": [
+                        {
+                            "nome": "Sala de Vendas",
+                            "ramal": 9131
+                        }
+                    ]
+                },
+                {
+                    "nome": "Eventos",
+                    "numeros": [
+                        {
+                            "nome": "Eventos",
+                            "ramal": 9086
+                        }
+                    ]
+                },
+                {
+                    "nome": "Faturamento",
+                    "numeros": [
+                        {
+                            "nome": "Bruna / Lidia",
+                            "ramal": "9106 / 9128"
+                        },
+                        {
+                            "nome": "Elilian",
+                            "ramal": "9126"
+                        },
+                        {
+                            "nome": "Julyane / Aprendiz",
+                            "ramal": "9082"
+                        }
+                    ]
+                },
+                {
+                    "nome": "Financeiro",
+                    "numeros": [
+                        {
+                            "nome": "Osvair",
+                            "ramal": 9074
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "nome": "Filiais",
+            "cor": "#938953",
+            "numeros_sem_area": [
+                {
+                    "nome": "Avaré",
+                    "ramal": 9706
+                },
+                {
+                    "nome": "Bauru",
+                    "ramal": 9707
+                },
+                {
+                    "nome": "Cândido Mota",
+                    "ramal": 9082
+                },
+                {
+                    "nome": "Expedição Avaré",
+                    "ramal": 9704
+                },
+                {
+                    "nome": "Ibiporã",
+                    "ramal": 9708
+                },
+                {
+                    "nome": "Marília",
+                    "ramal": 9709
+                },
+                {
+                    "nome": "Regente Feijó",
+                    "ramal": 9705
+                }
+            ],
+            "areas": [
+                {
+                    "nome": "Road Show",
+                    "numeros": [
+                        {
+                            "nome": "Fabio",
+                            "ramal": 9344
+                        },
+                        {
+                            "nome": "Rodrigo",
+                            "ramal": 9343
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "nome": "Informática",
+            "cor": "#215968",
+            "numeros_sem_area": [],
+            "areas": [
+                {
+                    "nome": "Gerência de Tecnologia da Informação",
+                    "numeros": [
+                        {
+                            "nome": "Gilberto",
+                            "ramal": 9007
+                        }
+                    ]
+                },
+                {
+                    "nome": "Sistemas",
+                    "numeros": [
+                        {
+                            "nome": "Caio",
+                            "ramal": 9712
+                        },
+                        {
+                            "nome": "Fernanda",
+                            "ramal": 9723
+                        },
+                        {
+                            "nome": "Jéssica",
+                            "ramal": 9243
+                        },
+                        {
+                            "nome": "Mailson",
+                            "ramal": 9161
+                        },
+                        {
+                            "nome": "Murilo",
+                            "ramal": 9725
+                        }
+                    ]
+                },
+                {
+                    "nome": "Infra / Rede",
+                    "numeros": [
+                        {
+                            "nome": "Lucas",
+                            "ramal": 9499
+                        },
+                        {
+                            "nome": "Luciano",
+                            "ramal": 9350
+                        },
+                        {
+                            "nome": "Rennan",
+                            "ramal": 9112
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "nome": "Manut. de Material de Apoio",
+            "cor": "#595959",
+            "numeros_sem_area": [
+                {
+                    "nome": "Lucas Soares",
+                    "ramal": 9144
+                },
+                {
+                    "nome": "Marcelo (Batata)",
+                    "ramal": 9029
+                },
+                {
+                    "nome": "Wanderley Benedicto",
+                    "ramal": 9065
+                },
+                {
+                    "nome": "Refrigeração / Valter",
+                    "ramal": 9438
+                }
+            ],
+            "areas": []
+        },
+        {
+            "nome": "Frotas",
+            "cor": "#595959",
+            "numeros_sem_area": [
+                {
+                    "nome": "Julio",
+                    "ramal": 9158
+                },
+                {
+                    "nome": "Marcelo Luz",
+                    "ramal": 9184
+                },
+                {
+                    "nome": "Oficina",
+                    "ramal": 9132
+                }
+            ],
+            "areas": []
+        },
+        {
+            "nome": "Marketing",
+            "cor": "#E46C0A",
+            "numeros_sem_area": [
+                {
+                    "nome": "Abilio Neto",
+                    "ramal": 9032
+                },
+                {
+                    "nome": "Gabriela",
+                    "ramal": 9715
+                },
+                {
+                    "nome": "Giovana Francini",
+                    "ramal": 9713
+                },
+                {
+                    "nome": "Giovanna Oliveira",
+                    "ramal": 9046
+                },
+                {
+                    "nome": "Lívia",
+                    "ramal": 9243
+                },
+                {
+                    "nome": "Renata",
+                    "ramal": 9044
+                },
+                {
+                    "nome": "Willian",
+                    "ramal": 9245
+                }
+            ],
+            "areas": [
+                {
+                    "nome": "Criação",
+                    "numeros": [
+                        {
+                            "nome": "Fernando",
+                            "ramal": 9116
+                        },
+                        {
+                            "nome": "Pedro / Vinicius / Matheus",
+                            "ramal": 9091
+                        },
+                        {
+                            "nome": "Sala de Impressão",
+                            "ramal": 9497
+                        }
+                    ]
+                },
+                {
+                    "nome": "Expedição de Eventos",
+                    "numeros": [
+                        {
+                            "nome": "Marcelo",
+                            "ramal": 9089
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "nome": "Recursos Humanos",
+            "cor": "#4F6228",
+            "numeros_sem_area": [],
+            "areas": [
+                {
+                    "nome": "Recepção",
+                    "numeros": [
+                        {
+                            "nome": "Mayla",
+                            "ramal": 9230
+                        }
+                    ]
+                },
+                {
+                    "nome": "Administração de Pessoal",
+                    "numeros": [
+                        {
+                            "nome": "Camila",
+                            "ramal": 9223
+                        },
+                        {
+                            "nome": "Leila",
+                            "ramal": 9224
+                        },
+                        {
+                            "nome": "Meiri",
+                            "ramal": 9221
+                        },
+                        {
+                            "nome": "Natalia",
+                            "ramal": 9225
+                        },
+                        {
+                            "nome": "Rosana",
+                            "ramal": 9222
+                        },
+                        {
+                            "nome": "Sarah",
+                            "ramal": 9226
+                        },
+                        {
+                            "nome": "Vanda",
+                            "ramal": 9228
+                        }
+                    ]
+                },
+                {
+                    "nome": "Comunicação Interna",
+                    "numeros": [
+                        {
+                            "nome": "Isabella / Aprendiz DH",
+                            "ramal": 9345
+                        }
+                    ]
+                },
+                {
+                    "nome": "Desenvolvimento Humano",
+                    "numeros": [
+                        {
+                            "nome": "Aline",
+                            "ramal": 9215
+                        },
+                        {
+                            "nome": "Ana Amália",
+                            "ramal": 9217
+                        },
+                        {
+                            "nome": "Bianca / Tatiane Sucegan",
+                            "ramal": 9216
+                        },
+                        {
+                            "nome": "Cassia",
+                            "ramal": 9219
+                        },
+                        {
+                            "nome": "Marina",
+                            "ramal": 9213
+                        },
+                        {
+                            "nome": "Quezia",
+                            "ramal": 9214
+                        },
+                        {
+                            "nome": "Susana",
+                            "ramal": 9211
+                        },
+                        {
+                            "nome": "Tatiane Cirino",
+                            "ramal": 9728
+                        },
+                        {
+                            "nome": "Viviane",
+                            "ramal": 9212
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "nome": "SESMT",
+            "cor": "#4F6228",
+            "numeros_sem_area": [],
+            "areas": [
+                {
+                    "nome": "Medicina do Trabalho",
+                    "numeros": [
+                        {
+                            "nome": "Jani e Vagner (Enfermeiros)",
+                            "ramal": 9231
+                        }
+                    ]
+                },
+                {
+                    "nome": "Segurança do Trabalho",
+                    "numeros": [
+                        {
+                            "nome": "Técnicos de Segurança",
+                            "ramal": "9066 / 9166 / 9266"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "nome": "Salas de Reunião",
+            "cor": "#C0504D",
+            "numeros_sem_area": [],
+            "areas": [
+                {
+                    "nome": "Administrativo",
+                    "numeros": [
+                        {
+                            "nome": "Conti Cola",
+                            "ramal": 9200
+                        },
+                        {
+                            "nome": "Old Red",
+                            "ramal": 9205
+                        },
+                        {
+                            "nome": "Zero Grau",
+                            "ramal": 9204
+                        }
+                    ]
+                },
+                {
+                    "nome": "Cervejaria",
+                    "numeros": [
+                        {
+                            "nome": "Malte",
+                            "ramal": 9153
+                        }
+                    ]
+                },
+                {
+                    "nome": "Compras",
+                    "numeros": [
+                        {
+                            "nome": "Conti Bier",
+                            "ramal": 9206
+                        }
+                    ]
+                },
+                {
+                    "nome": "Contabilidade",
+                    "numeros": [
+                        {
+                            "nome": "Contabilidade",
+                            "ramal": 9156
+                        }
+                    ]
+                },
+                {
+                    "nome": "Recursos Humanos",
+                    "numeros": [
+                        {
+                            "nome": "1500",
+                            "ramal": 9229
+                        },
+                        {
+                            "nome": "Almada",
+                            "ramal": 9228
+                        },
+                        {
+                            "nome": "Du Royale",
+                            "ramal": 9227
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "nome": "Segurança Patrimonial",
+            "cor": "#4A452A",
+            "numeros_sem_area": [
+                {
+                    "nome": "Osnei",
+                    "ramal": 9114
+                }
+            ],
+            "areas": [
+                {
+                    "nome": "Portarias",
+                    "numeros": [
+                        {
+                            "nome": "Administração",
+                            "ramal": "9004"
+                        },
+                        {
+                            "nome": "Administração 1-C",
+                            "ramal": "9130"
+                        },
+                        {
+                            "nome": "Expedição - Portaria Caminhões",
+                            "ramal": "9003 / 9067"
+                        },
+                        {
+                            "nome": "Filial Ponto 4 e Ponto 6",
+                            "ramal": "9175"
+                        },
+                        {
+                            "nome": "Guarita Ponto 5",
+                            "ramal": "9176"
+                        },
+                        {
+                            "nome": "Velotran",
+                            "ramal": "9174"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "nome": "Suprimentos",
+            "cor": "#31859C",
+            "numeros_sem_area": [],
+            "areas": [
+                {
+                    "nome": "Almoxarifados",
+                    "numeros": [
+                        {
+                            "nome": "Anderson",
+                            "ramal": 9059
+                        },
+                        {
+                            "nome": "Insumos (Ossires) / Mat.Prom. (Luciano)",
+                            "ramal": 9134
+                        },
+                        {
+                            "nome": "Murilo",
+                            "ramal": 9496
+                        },
+                        {
+                            "nome": "Peças / Balcão / Coleta Materiais",
+                            "ramal": 9136
+                        },
+                        {
+                            "nome": "Receb. (Fiscal) Orlando/Jackson",
+                            "ramal": 9437
+                        },
+                        {
+                            "nome": "Recebimento (Físico) Fabio",
+                            "ramal": 9125
+                        }
+                    ]
+                },
+                {
+                    "nome": "Compras",
+                    "numeros": [
+                        {
+                            "nome": "Adalberto",
+                            "ramal": "9055"
+                        },
+                        {
+                            "nome": "Ana Claudia",
+                            "ramal": "9083"
+                        },
+                        {
+                            "nome": "Clara",
+                            "ramal": "9123"
+                        },
+                        {
+                            "nome": "Gabriel",
+                            "ramal": "9238"
+                        },
+                        {
+                            "nome": "Mario",
+                            "ramal": "9031"
+                        },
+                        {
+                            "nome": "Nuno",
+                            "ramal": "9054"
+                        },
+                        {
+                            "nome": "Susy",
+                            "ramal": "9011"
+                        },
+                        {
+                            "nome": "Tatiane",
+                            "ramal": "9207"
+                        },
+                        {
+                            "nome": "Ulisses",
+                            "ramal": "9030"
+                        },
+                        {
+                            "nome": "Vanessa",
+                            "ramal": "9069"
+                        },
+                        {
+                            "nome": "Vania",
+                            "ramal": "9040"
+                        }
+                    ]
+                },
+                {
+                    "nome": "Expedição",
+                    "numeros": [
+                        {
+                            "nome": "Descar. Vasilhame",
+                            "ramal": 9159
+                        },
+                        {
+                            "nome": "Estoque (Wellington)",
+                            "ramal": 9181
+                        },
+                        {
+                            "nome": "Expedição 1 - Rhennan",
+                            "ramal": 9490
+                        },
+                        {
+                            "nome": "Luciano Pissolito / Adriano",
+                            "ramal": 9034
+                        },
+                        {
+                            "nome": "Leandro",
+                            "ramal": 9183
+                        },
+                        {
+                            "nome": "Pátio (Cristhiano)",
+                            "ramal": 9335
+                        },
+                        {
+                            "nome": "Luiz Fernando",
+                            "ramal": 9185
+                        }
+                    ]
+                },
+                {
+                    "nome": "PPCP",
+                    "numeros": [
+                        {
+                            "nome": "André (Maçã)",
+                            "ramal": 9077
+                        },
+                        {
+                            "nome": "Flavio / Nicolas",
+                            "ramal": 9121
+                        },
+                        {
+                            "nome": "Luiz Antonio (Totó)",
+                            "ramal": 9336
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "nome": "Trade Marketing",
+            "cor": "#E46C0A",
+            "numeros_sem_area": [
+                {
+                    "nome": "Ana Carolina",
+                    "ramal": 9209
+                },
+                {
+                    "nome": "Aprendiz",
+                    "ramal": 9726
+                },
+                {
+                    "nome": "Bruna",
+                    "ramal": 9722
+                },
+                {
+                    "nome": "Carla",
+                    "ramal": 9210
+                },
+                {
+                    "nome": "Mariane",
+                    "ramal": 9489
+                },
+                {
+                    "nome": "Victor",
+                    "ramal": 9022
+                },
+                {
+                    "nome": "Vinicius",
+                    "ramal": 9064
+                },
+                {
+                    "nome": "Vitor Hugo",
+                    "ramal": 9233
+                }
+            ],
+            "areas": []
+        }
+    ]
+}

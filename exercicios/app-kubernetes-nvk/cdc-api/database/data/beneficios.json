@@ -1,0 +1,613 @@
+{
+    "divisions": [
+        {
+            "name": "Escolas",
+            "ionicon": "school",
+            "areas": [
+                {
+                    "name": "Ensino Médio, Fundamental e Infantil",
+                    "benefits": [
+                        {
+                            "partner": "Mais",
+                            "contact": "3322 2426",
+                            "benefit": "10% de desconto"
+                        },
+                        {
+                            "partner": "Colégio Einstein",
+                            "contact": "3323 8294",
+                            "benefit": "40% de desconto + 10% de pontualidade de pagamento"
+                        },
+                        {
+                            "partner": "Pequeninos Educação Infantil",
+                            "contact": "3324 3535",
+                            "benefit": "20% de desconto"
+                        },
+                        {
+                            "partner": "Santa Clara COC - Assis e C. Mota",
+                            "contact": "3321 3290 / 3341 3236",
+                            "benefit": "10% de desconto"
+                        },
+                        {
+                            "partner": "Santos Anjos",
+                            "contact": "3341 1052",
+                            "benefit": "5% de desconto (exceto material)"
+                        },
+                        {
+                            "partner": "Objetivo",
+                            "contact": "3322 2252",
+                            "benefit": "25% de desconto"
+                        },
+                        {
+                            "partner": "Escola Semente do Futuro",
+                            "contact": "3324 2692",
+                            "benefit": "12% de desconto"
+                        },
+                        {
+                            "partner": "Santa Maria Ressureição",
+                            "contact": "3302 1320",
+                            "benefit": "30% de desconto"
+                        },
+                        {
+                            "partner": "Colégio Ipê",
+                            "contact": "3325 1512",
+                            "benefit": "8% de desconto"
+                        },
+                        {
+                            "partner": "Colégio Adventista",
+                            "contact": "3324 9120",
+                            "benefit": "18% de desconto"
+                        }
+                    ]
+                },
+                {
+                    "name": "Idiomas",
+                    "benefits": [
+                        {
+                            "partner": "CNA",
+                            "contact": "3321 3818",
+                            "benefit": "35% de desconto"
+                        },
+                        {
+                            "partner": "Education Center",
+                            "contact": "9 9791 7885",
+                            "benefit": "20% de desconto"
+                        },
+                        {
+                            "partner": "Fisk",
+                            "contact": "3323 4715 / 3341 1860",
+                            "benefit": "30% de desconto"
+                        },
+                        {
+                            "partner": "Wizard",
+                            "contact": "3324 1081",
+                            "benefit": "50% matricula / 35% mensalidade modalidade Flex/Vip"
+                        },
+                        {
+                            "partner": "KNN",
+                            "contact": "3322 3668",
+                            "benefit": "50% de desconto"
+                        },
+                        {
+                            "partner": "Yázigi",
+                            "contact": "3341 4284",
+                            "benefit": "25% de desconto"
+                        },
+                        {
+                            "partner": "Languages",
+                            "contact": "3322 3038",
+                            "benefit": "10% de desconto"
+                        },
+                        {
+                            "partner": "CCAA",
+                            "contact": "3322 2586",
+                            "benefit": "20% de desconto e isenção na matricula e rematricula"
+                        },
+                        {
+                            "partner": "Open English",
+                            "contact": "4003 1474",
+                            "benefit": "70% à vista / 60% a prazo"
+                        }
+                    ]
+                },
+                {
+                    "name": "Técnicas",
+                    "benefits": [
+                        {
+                            "partner": "Centea e CTA",
+                            "contact": "3402 7707 / 9 9628 3151",
+                            "benefit": "30% de desconto"
+                        },
+                        {
+                            "partner": "Mais",
+                            "contact": "3322 2426",
+                            "benefit": "10% de desconto"
+                        }
+                    ]
+                },
+                {
+                    "name": "Informática",
+                    "benefits": [
+                        {
+                            "partner": "Século XXl",
+                            "contact": "3341 1234",
+                            "benefit": "10% para dois cursos ou mais módulos"
+                        }
+                    ]
+                },
+                {
+                    "name": "Pré Vestibular",
+                    "benefits": [
+                        {
+                            "partner": "Santa Clara COC - Assis",
+                            "contact": "9 9690 3704",
+                            "benefit": "10% de desconto"
+                        }
+                    ]
+                },
+                {
+                    "name": "Ensino Superior",
+                    "benefits": [
+                        {
+                            "partner": "Anhanguera - Assis",
+                            "contact": "9 9658 0170",
+                            "benefit": "25% de desconto"
+                        },
+                        {
+                            "partner": "Anhanguera - Cândido Mota",
+                            "contact": "9 9693 9632",
+                            "benefit": "50% de desconto"
+                        },
+                        {
+                            "partner": "Unicesumar",
+                            "contact": "3321 3971 / (44) 3027 6360",
+                            "benefit": "10 a 40% de desconto"
+                        },
+                        {
+                            "partner": "Uninter",
+                            "contact": "3322 2426",
+                            "benefit": "10% de desconto"
+                        },
+                        {
+                            "partner": "Unopar",
+                            "contact": "3322 5996",
+                            "benefit": "10% de desconto"
+                        },
+                        {
+                            "partner": "Unimar",
+                            "contact": "(14) 2105 4119",
+                            "benefit": "20% de desconto"
+                        },
+                        {
+                            "partner": "Uniesp",
+                            "contact": "3302 1230",
+                            "benefit": "50% de desconto"
+                        }
+                    ]
+                },
+                {
+                    "name": "MBA / Pós GRAD.",
+                    "benefits": [
+                        {
+                            "partner": "Fundação Getúlio Vargas",
+                            "contact": "(14) 2106 9900",
+                            "benefit": "9% de desconto"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Bem estar",
+            "ionicon": "barbell",
+            "areas": [
+                {
+                    "name": "Academia",
+                    "benefits": [
+                        {
+                            "partner": "Ama",
+                            "contact": "3322 7088",
+                            "benefit": "10% de desconto"
+                        },
+                        {
+                            "partner": "Corpo e Movimento",
+                            "contact": "3341 4324",
+                            "benefit": "10% de desconto"
+                        },
+                        {
+                            "partner": "CRB",
+                            "contact": "3322 6402",
+                            "benefit": "6% de desconto (mensalidade)"
+                        },
+                        {
+                            "partner": "Fitness Academia",
+                            "contact": "3323 7903",
+                            "benefit": "25% de desconto"
+                        },
+                        {
+                            "partner": "Pró-Corpo",
+                            "contact": "9 9604 3452",
+                            "benefit": "10% de desconto"
+                        },
+                        {
+                            "partner": "UP Academia",
+                            "contact": "3324 1017",
+                            "benefit": "20% de desconto"
+                        },
+                        {
+                            "partner": "Pilates - Vitally (Centro Clínico)",
+                            "contact": "9 9719 5561 / 9 9723 3642",
+                            "benefit": "10% de desconto (pacote mensal Pilates para adutos e crianças - colaboradores e dependentes)"
+                        }
+                    ]
+                },
+                {
+                    "name": "Cabeleireiro",
+                    "benefits": [
+                        {
+                            "partner": "Dejair",
+                            "contact": "3341 1017",
+                            "benefit": "10% de desconto"
+                        },
+                        {
+                            "partner": "Liliane Pagnan",
+                            "contact": "3341 2151",
+                            "benefit": "10% de desconto"
+                        }
+                    ]
+                },
+                {
+                    "name": "Estética",
+                    "benefits": [
+                        {
+                            "partner": "Clínica Estética Roberta Bolfarini",
+                            "contact": "9 9603 5320",
+                            "benefit": "15% à vista / 10% à prazo"
+                        },
+                        {
+                            "partner": "Silvia Cosméticos",
+                            "contact": "3341 4361",
+                            "benefit": "10% à vista no dinheiro ou 7% no cartão de crédito"
+                        }
+                    ]
+                },
+                {
+                    "name": "Lazer",
+                    "benefits": [
+                        {
+                            "partner": "Terra Parque",
+                            "contact": "3902 6015",
+                            "benefit": "20% de desconto na hospedagem"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Saúde",
+            "ionicon": "medkit",
+            "areas": [
+                {
+                    "name": "Alimentação",
+                    "benefits": [
+                        {
+                            "partner": "Chocolateria Marina",
+                            "contact": "9 9736 8163",
+                            "benefit": "10% doces datas comemorativas"
+                        },
+                        {
+                            "partner": "Girabem Dist. de Produtos",
+                            "contact": "3324 6188",
+                            "benefit": "8% de desconto"
+                        }
+                    ]
+                },
+                {
+                    "name": "Fisioterapia",
+                    "benefits": [
+                        {
+                            "partner": "Clínica Dif - Qualidade de Vida",
+                            "contact": "3341 4324",
+                            "benefit": "10% de desconto"
+                        }
+                    ]
+                },
+                {
+                    "name": "Médico",
+                    "benefits": [
+                        {
+                            "partner": "Unimed",
+                            "contact": "3302 3000",
+                            "benefit": "Convênio na Folha de Pagamento"
+                        }
+                    ]
+                },
+                {
+                    "name": "Odontologia",
+                    "benefits": [
+                        {
+                            "partner": "Amanda Campana Bergamasco",
+                            "contact": "9 9661 4582",
+                            "benefit": "30% à vista / 15% à prazo"
+                        },
+                        {
+                            "partner": "Ana Carolina G. Godinho",
+                            "contact": "3341 4307",
+                            "benefit": "20% de desconto / 15% de desconto para esposas, maridos, filhos ou enteados"
+                        },
+                        {
+                            "partner": "Cartos Eduardo Oliveira Bessa",
+                            "contact": "3323 2980",
+                            "benefit": "25% Clínica Geral, prótese, implante, facetas e lentes de contato, cirurgia 3º molar incluso"
+                        },
+                        {
+                            "partner": "Rod Radiologia",
+                            "contact": "3351 5334",
+                            "benefit": "15% de desconto"
+                        },
+                        {
+                            "partner": "Radiodoc",
+                            "contact": "3324 5555",
+                            "benefit": "10% de desconto"
+                        },
+                        {
+                            "partner": "Daniela Marroni",
+                            "contact": "3341 3129 / 9 9676 3129",
+                            "benefit": "Dentística 15% à vista ou 5% a prazo / Prótese 10% à vista ou 5% à prazo / Estética 12% à vista"
+                        },
+                        {
+                            "partner": "Érica Pereira (Adulto)",
+                            "contact": "3341 1093",
+                            "benefit": "10% à vista / 5% à prazo"
+                        },
+                        {
+                            "partner": "Leandro J. Zibordi",
+                            "contact": "3341 6059",
+                            "benefit": "10% de desconto"
+                        },
+                        {
+                            "partner": "Lisiane Pereira (Infantil)",
+                            "contact": "3341 1093",
+                            "benefit": "10% à vista / 5% à prazo"
+                        },
+                        {
+                            "partner": "Patrícia F. Santori",
+                            "contact": "3324 6090",
+                            "benefit": "30% de desconto"
+                        },
+                        {
+                            "partner": "Ricardo Andreotti",
+                            "contact": "3341 2780",
+                            "benefit": "10% de desconto"
+                        },
+                        {
+                            "partner": "Sergio Augusto Godoy Chade",
+                            "contact": "3341 1426 / 3324 1118",
+                            "benefit": "35% de desconto"
+                        },
+                        {
+                            "partner": "Solange Maia Chade",
+                            "contact": "3341 1426 / 3324 1118",
+                            "benefit": "35% de desconto"
+                        }
+                    ]
+                },
+                {
+                    "name": "Psicologia",
+                    "benefits": [
+                        {
+                            "partner": "Psicoterapia (Larissa Deliberador)",
+                            "contact": "9 9739 0778",
+                            "benefit": "40% adultos e idosos / 20% infantojuvenil e avaliação neuropsicológica e de aprendizagem"
+                        },
+                        {
+                            "partner": "Psicoterapia (Luciano Martorelli)",
+                            "contact": "9 9602 0514",
+                            "benefit": "20% de desconto"
+                        }
+                    ]
+                },
+                {
+                    "name": "Reabilitação",
+                    "benefits": [
+                        {
+                            "partner": "UP Academia",
+                            "contact": "3324 1017",
+                            "benefit": "20% de desconto"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Comércio",
+            "ionicon": "storefront",
+            "areas": [
+                {
+                    "name": "Automotivo",
+                    "benefits": [
+                        {
+                            "partner": "PaxPneus Continental",
+                            "contact": "3325 1204",
+                            "benefit": "Troca de óleo 20% / Alinhamento e balanceamento entre R$89,90 e R$99,00 / Pneus em 6x"
+                        }
+                    ]
+                },
+                {
+                    "name": "Assistência Téc.",
+                    "benefits": [
+                        {
+                            "partner": "Líder Tecnologia (Eletrônicos)",
+                            "contact": "3341 4636",
+                            "benefit": "10% de desconto"
+                        }
+                    ]
+                },
+                {
+                    "name": "Construção",
+                    "benefits": [
+                        {
+                            "partner": "Cimencal",
+                            "contact": "3341 1844",
+                            "benefit": "12% à vista"
+                        },
+                        {
+                            "partner": "Constrular",
+                            "contact": "3341 2626 / 3341 3538",
+                            "benefit": "15% à vista (exceto cimento)"
+                        }
+                    ]
+                },
+                {
+                    "name": "Esportivo",
+                    "benefits": [
+                        {
+                            "partner": "Ciclo lzzo",
+                            "contact": "3341 2055",
+                            "benefit": "12% à vista / 8% a prazo e manutenções"
+                        }
+                    ]
+                },
+                {
+                    "name": "Farmácia",
+                    "benefits": [
+                        {
+                            "partner": "Artesanal Farmácia de Manipulação",
+                            "contact": "3321 3298 / 3321 3419",
+                            "benefit": "20% de desconto"
+                        },
+                        {
+                            "partner": "Drogasil",
+                            "contact": "3323 7294",
+                            "benefit": "15% de desconto"
+                        },
+                        {
+                            "partner": "Drogaria Geli",
+                            "contact": "3341 1611",
+                            "benefit": "20% éticos / 50% genéricos / 10% perfumaria"
+                        },
+                        {
+                            "partner": "Farmais",
+                            "contact": "3341 4530",
+                            "benefit": "22% éticos / 40% genéricos / 17% perfumaria"
+                        },
+                        {
+                            "partner": "Mais Popular",
+                            "contact": "3341 5503",
+                            "benefit": "20% éticos e contraceptivos / 30% genéricos e similares"
+                        },
+                        {
+                            "partner": "Nossa Senhora Aparecida",
+                            "contact": "3341 1194",
+                            "benefit": "15% éticos / 40% genéricos / até 35% similares"
+                        },
+                        {
+                            "partner": "Pharma D' Ouro",
+                            "contact": "3341 3777",
+                            "benefit": "15% de desconto (manipulados)"
+                        },
+                        {
+                            "partner": "Santa Rita",
+                            "contact": "3341 1657",
+                            "benefit": "15% de desconto"
+                        },
+                        {
+                            "partner": "Farmácia Unimed",
+                            "contact": "9 9696 7408",
+                            "benefit": "Até 5% para conveniados Unimed / Entregas de medicamentos em Cândido Mota e Assis"
+                        }
+                    ]
+                },
+                {
+                    "name": "Fotografia",
+                    "benefits": [
+                        {
+                            "partner": "Center Foto",
+                            "contact": "3341 7167",
+                            "benefit": "15% de desconto"
+                        }
+                    ]
+                },
+                {
+                    "name": "Ótica",
+                    "benefits": [
+                        {
+                            "partner": "Óticas Carol",
+                            "contact": "3341 2423 / 3323 4252",
+                            "benefit": "20% à vista / 10% à prazo"
+                        },
+                        {
+                            "partner": "Ótica Elis",
+                            "contact": "3321 2680",
+                            "benefit": "20% à vista / 10% à prazo (até 10%)"
+                        },
+                        {
+                            "partner": "Ótica Multi Visão",
+                            "contact": "3341 5587",
+                            "benefit": "15% à vista / 10% à prazo (até 10x)"
+                        },
+                        {
+                            "partner": "Ótica Nacional",
+                            "contact": "3321 3737",
+                            "benefit": "20% à vista (exceto promoção) / 15% à prazo (até 6x)"
+                        },
+                        {
+                            "partner": "Ótica e Relojoaria Vitória",
+                            "contact": "3324 3459",
+                            "benefit": "20% à vista / 10% à prazo"
+                        },
+                        {
+                            "partner": "Ótica Sivia",
+                            "contact": "3323 3610 / 3329 2699",
+                            "benefit": "20% à vista / 10% à prazo"
+                        },
+                        {
+                            "partner": "Ótica Sol",
+                            "contact": "3341 5757",
+                            "benefit": "15% à vista"
+                        },
+                        {
+                            "partner": "Óticas Millenium",
+                            "contact": "3341 7188",
+                            "benefit": "15% à vista / 10% à prazo"
+                        }
+                    ]
+                },
+                {
+                    "name": "Papelaria",
+                    "benefits": [
+                        {
+                            "partner": "Papelão",
+                            "contact": "3341 2193 / 3321 4832",
+                            "benefit": "10% à vista (exceto jornais e revistas)"
+                        },
+                        {
+                            "partner": "Papelaria e Brinquedos Geli",
+                            "contact": "3341 2144",
+                            "benefit": "10% de desconto"
+                        }
+                    ]
+                },
+                {
+                    "name": "Vestuário",
+                    "benefits": [
+                        {
+                            "partner": "Atitude Kids e Adulto",
+                            "contact": "3341 1745",
+                            "benefit": "13% de desconto"
+                        },
+                        {
+                            "partner": "Hering",
+                            "contact": "3323 3074",
+                            "benefit": "10% de desconto"
+                        },
+                        {
+                            "partner": "Sport Center",
+                            "contact": "3341 1255",
+                            "benefit": "10% de desconto"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,6 @@
+{
+    "error": {
+        "description": "Não foi possível realizar a autentificação",
+        "messages": "Unauthenticated."
+    }
+}

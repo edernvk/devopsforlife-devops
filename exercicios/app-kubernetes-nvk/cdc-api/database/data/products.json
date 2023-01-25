@@ -1,0 +1,394 @@
+[
+  {
+    "description": "CONTI BIER 24x300ml VDR RT",
+    "name": "CONTI BIER",
+    "type": "Cerveja Pilsen",
+    "ml": 300,
+    "barcode_ean": 7898295300782,
+    "barcode_dun": 17898295300789
+  },
+  {
+    "description": "CONTI BIER mlZB 12x350ml LT",
+    "name": "CONTI BIER MALZBIER",
+    "type": "Cerveja Pilsen",
+    "ml": 350,
+    "barcode_ean": 7898295300072,
+    "barcode_dun": 37898295300783
+  },
+  {
+    "description": "SAMBA 24x300ml VDR RT",
+    "name": "SAMBA",
+    "type": "Cerveja Pilsen",
+    "ml": 300,
+    "barcode_ean": 7898295300775,
+    "barcode_dun": 27898295300779
+  },
+  {
+    "description": "CONTI ZERO GRAU 24x300ml VDR RT",
+    "name": "CONTI ZERO GRAU",
+    "type": "Cerveja Pilsen",
+    "ml": 300,
+    "barcode_ean": 7898295300867,
+    "barcode_dun": 17898295300864
+  },
+  {
+    "description": "1500 P.MALTE 24x300ml VDR RT",
+    "name": 1500,
+    "type": "Cerveja Puro Malte",
+    "ml": 300,
+    "barcode_ean": 7898295300829,
+    "barcode_dun": 17898295300826
+  },
+  {
+    "description": "ALMADA P.MALTE 24x300ml VDR RT",
+    "name": "ALMADA",
+    "type": "Cerveja Puro Malte",
+    "ml": 300,
+    "barcode_ean": 7898295301994,
+    "barcode_dun": 27898295301998
+  },
+  {
+    "description": "BURGUESA 24x300ml VDR RT",
+    "name": "BURGUESA",
+    "type": "Cerveja Pilsen",
+    "ml": 300,
+    "barcode_ean": 7898295301345,
+    "barcode_dun": 17898295301342
+  },
+  {
+    "description": "MOINHO REAL P.MALTE 12x269ml LT",
+    "name": "MOINHO REAL",
+    "type": "Cerveja Puro Malte",
+    "ml": 269,
+    "barcode_ean": 7898295303516,
+    "barcode_dun": 7898295303523
+  },
+  {
+    "description": "SMITH 44 P.MALTE 12x350ml LT SLEEK",
+    "name": "SMITH 44",
+    "type": "Cerveja Puro Malte",
+    "ml": 350,
+    "barcode_ean": 7898295303745,
+    "barcode_dun": 7898295303752
+  },
+  {
+    "description": "BIG POWER 6x600ml PET DC",
+    "name": "BIG POWER",
+    "type": "Refrigerante",
+    "ml": 600,
+    "barcode_ean": 7898295301246,
+    "barcode_dun": 17898295301854
+  },
+  {
+    "description": "CONTI COLA 6x600ml PET DC",
+    "name": "CONTI COLA",
+    "type": "Refrigerante",
+    "ml": 600,
+    "barcode_ean": 7898295300287,
+    "barcode_dun": 27898295300281
+  },
+  {
+    "description": "CONTI COLA SEM ACUCAR 6x600ml PET DC",
+    "name": "CONTI COLA SEM AÇUCAR",
+    "type": "Refrigerante",
+    "ml": 600,
+    "barcode_ean": 7898295300478,
+    "barcode_dun": 17898295300475
+  },
+  {
+    "description": "UVA CONTI 6x600ml PET DC",
+    "name": "CONTI UVA",
+    "type": "Refrigerante",
+    "ml": 600,
+    "barcode_ean": 7898295300638,
+    "barcode_dun": 17898295300635
+  },
+  {
+    "description": "GUARANA CONTI 6x600ml PET DC",
+    "name": "GUARANÁ CONTI",
+    "type": "Refrigerante",
+    "ml": 600,
+    "barcode_ean": 7898295300232,
+    "barcode_dun": 17898295300239
+  },
+  {
+    "description": "GUARANA CONTI SEM ACUCAR 6x600ml PET DC",
+    "name": "GUARANA CONTI SEM AÇUCAR",
+    "type": "Refrigerante",
+    "ml": 600,
+    "barcode_ean": 7898295300515,
+    "barcode_dun": 27898295300519
+  },
+  {
+    "description": "LARANJA CONTI 6x600ml PET DC",
+    "name": "LARANJA CONTI",
+    "type": "Refrigerante",
+    "ml": 600,
+    "barcode_ean": 7898295300331,
+    "barcode_dun": 27898295300335
+  },
+  {
+    "description": "LIMAO CONTI 6x600ml PET DC",
+    "name": "LIMÃO CONTI",
+    "type": "Refrigerante",
+    "ml": 600,
+    "barcode_ean": 7898295300423,
+    "barcode_dun": 17898295300420
+  },
+  {
+    "description": "TAUBAIANA 6x600ml PET DC",
+    "name": "TAUBAIANA",
+    "type": "Refrigerante",
+    "ml": 600,
+    "barcode_ean": 7898295302601,
+    "barcode_dun": 17898295302608
+  },
+  {
+    "description": "XOPITO 6x900ml PET DC",
+    "name": "XOPITO",
+    "type": "Refrigerante",
+    "ml": 900,
+    "barcode_ean": 7896008112431,
+    "barcode_dun": 27896008112435
+  },
+  {
+    "description": "COQUETEL CONTINI BCO 12x900ml VDR DC",
+    "name": "CONTINI",
+    "type": "Bebidas Quentes",
+    "ml": 900,
+    "barcode_ean": 7896008112219,
+    "barcode_dun": 17896008112216
+  },
+  {
+    "description": "CACHACA LINDA 6x750ml VDR DC",
+    "name": "CANINHA LINDA",
+    "type": "Bebidas Quentes",
+    "ml": 750,
+    "barcode_ean": 7896008100742,
+    "barcode_dun": 27896008100746
+  },
+  {
+    "description": "OLD RED 6x1L VDR DC",
+    "name": "OLD RED",
+    "type": "Bebidas Quentes",
+    "ml": 1000,
+    "barcode_ean": 7896008101381,
+    "barcode_dun": 17896008111127
+  },
+  {
+    "description": "CARGA RAPIDA 6x950ml PET DC",
+    "name": "CARGA RÁPIDA",
+    "type": "Bebidas Quentes",
+    "ml": 950,
+    "barcode_ean": 7896008113292,
+    "barcode_dun": 17896008113299
+  },
+  {
+    "description": "GOLDEN PANTHER 12x900ml VDR DC",
+    "name": "GOLDEN PANTHER",
+    "type": "Bebidas Quentes",
+    "ml": 900,
+    "barcode_ean": 7896008100148,
+    "barcode_dun": 17896008100145
+  },
+  {
+    "description": "RIVA 12x900ml VDR DC",
+    "name": "RIVA",
+    "type": "Bebidas Quentes",
+    "ml": 900,
+    "barcode_ean": 7896008100124,
+    "barcode_dun": 17896008100121
+  },
+  {
+    "description": "VODKA POLARA 12x970ml VDR DC",
+    "name": "POLARA",
+    "type": "Bebidas Quentes",
+    "ml": 970,
+    "barcode_ean": 7896008100407,
+    "barcode_dun": 17896008100404
+  },
+  {
+    "description": "VAT 45 OURO 12x970ml VDR DC",
+    "name": "VAT 45",
+    "type": "Bebidas Quentes",
+    "ml": 970,
+    "barcode_ean": 7896008104122,
+    "barcode_dun": 27896008104126
+  },
+  {
+    "description": "VAT 45 PRATA 12x970ml VDR DC",
+    "name": "VAT 45",
+    "type": "Bebidas Quentes",
+    "ml": 970,
+    "barcode_ean": 7896008105129,
+    "barcode_dun": 27896008105123
+  },
+  {
+    "description": "CATUABA PAJE 12x1L PET DC",
+    "name": "PAJÉ",
+    "type": "Bebidas Quentes",
+    "ml": 1000,
+    "barcode_ean": 7896008112141,
+    "barcode_dun": 17896008112148
+  },
+  {
+    "description": "WHISKY OLD KINGS 6x1L VDR DC",
+    "name": "OLD KINGS",
+    "type": "Bebidas Quentes",
+    "ml": 1000,
+    "barcode_ean": 7896008100476,
+    "barcode_dun": 17896008100473
+  },
+  {
+    "description": "BARKOV ICE FRUTAS VMS 24x275ml VDR DC",
+    "name": "BARKOV ICE",
+    "type": "Bebidas Quentes",
+    "ml": 275,
+    "barcode_ean": 7896008101282,
+    "barcode_dun": 17896008101289
+  },
+  {
+    "description": "CONTINI ICE 24x275ml VDR DC",
+    "name": "CONTINI ICE",
+    "type": "Bebidas Quentes",
+    "ml": 275,
+    "barcode_ean": 7896008105211,
+    "barcode_dun": 17896008105218
+  },
+  {
+    "description": "GIN TONICA ICE DUROYALE 24x275ml VDR DC",
+    "name": "DUROYALE",
+    "type": "Bebidas Quentes",
+    "ml": 275,
+    "barcode_ean": 7896008112233,
+    "barcode_dun": 17896008112230
+  },
+  {
+    "description": "BITTER RIVARI 12x900ml VDR DC",
+    "name": "RIVARI",
+    "type": "Bebidas Quentes",
+    "ml": 900,
+    "barcode_ean": 7896008100223,
+    "barcode_dun": 17896008100220
+  },
+  {
+    "description": "RUM PORTO SANTO OURO 6x1L VDR DC",
+    "name": "PORTO SANTO",
+    "type": "Bebidas Quentes",
+    "ml": 1000,
+    "barcode_ean": 7896008112134,
+    "barcode_dun": 17896008112131
+  },
+  {
+    "description": "GIN QUEEN ROYALE 6x1L VDR DC",
+    "name": "QUEEN ROYALE",
+    "type": "Bebidas Quentes",
+    "ml": 1000,
+    "barcode_ean": 7896008112202,
+    "barcode_dun": 17896008112209
+  },
+  {
+    "description": "VODKA BARKOV 6x1L VDR DC",
+    "name": "BARKOV",
+    "type": "Bebidas Quentes",
+    "ml": 1000,
+    "barcode_ean": 7896008100308,
+    "barcode_dun": 27896008100302
+  },
+  {
+    "description": "DIMEL 6x900ml VDR DC",
+    "name": "DIMEL",
+    "type": "Bebidas Quentes",
+    "ml": 900,
+    "barcode_ean": 7896008100209,
+    "barcode_dun": 27896008100203
+  },
+  {
+    "description": "JURUBEBA DUNORTE V.COMP 6x900ml VDR",
+    "name": "JURUBEBA DUNORTE",
+    "type": "Bebidas Quentes",
+    "ml": 900,
+    "barcode_ean": 7896008113100,
+    "barcode_dun": 17896008113107
+  },
+  {
+    "description": "FERNET ROSEMBERG 12x950ml VDR DC",
+    "name": "ROSEMBERG",
+    "type": "Bebidas Quentes",
+    "ml": 950,
+    "barcode_ean": 7896008112417,
+    "barcode_dun": 17896008112414
+  },
+  {
+    "description": "FERNET DIERVA 6x900ml VDR DC",
+    "name": "DIERVA",
+    "type": "Bebidas Quentes",
+    "ml": 900,
+    "barcode_ean": 7896008100322,
+    "barcode_dun": 17896008100329
+  },
+  {
+    "description": "CONTELO 6x900ml VDR DC",
+    "name": "CONTELO",
+    "type": "Bebidas Quentes",
+    "ml": 900,
+    "barcode_ean": 7896008100285,
+    "barcode_dun": 27896008100289
+  },
+  {
+    "description": "FESTINI BRANCO 6x950ml PET DC",
+    "name": "FESTINI",
+    "type": "Bebidas Quentes",
+    "ml": 950,
+    "barcode_ean": 7896008113360,
+    "barcode_dun": 17896008113367
+  },
+  {
+    "description": "RUM PORTO SANTO MACA VERDE 6x1L VDR DC",
+    "name": "PORTO SANTO",
+    "type": "Bebidas Quentes",
+    "ml": 1000,
+    "barcode_ean": 7896008101572,
+    "barcode_dun": 17896008101579
+  },
+  {
+    "description": "SAKAI 6x750ml VDR DC",
+    "name": "SAKAI",
+    "type": "Bebidas Quentes",
+    "ml": 750,
+    "barcode_ean": 7896008101633,
+    "barcode_dun": 17896008101630
+  },
+  {
+    "description": "DOCE VENENO 6x750ml VDR DC",
+    "name": "DOCE VENENO",
+    "type": "Bebidas Quentes",
+    "ml": 750,
+    "barcode_ean": 7896008101626,
+    "barcode_dun": 17896008101623
+  },
+  {
+    "description": "BRANCA DE NEVE 6x950ml PET DC",
+    "name": "BRANCA DE NEVE",
+    "type": "Bebidas Quentes",
+    "ml": 950,
+    "barcode_ean": 7896008113308,
+    "barcode_dun": 17896008113305
+  },
+  {
+    "description": "CALDEZANO T 6x900ml VDR DC",
+    "name": "CALDEZANO",
+    "type": "Bebidas Quentes",
+    "ml": 900,
+    "barcode_ean": 7896008105112,
+    "barcode_dun": 27896008105116
+  },
+  {
+    "description": "PRACURA DUFORTE 6x900ml VDR DC",
+    "name": "PRACURA",
+    "type": "Bebidas Quentes",
+    "ml": 900,
+    "barcode_ean": 7896008101114,
+    "barcode_dun": 17896008101111
+  }
+]

@@ -1,0 +1,16 @@
+{
+    "user": {
+        "id": 1,
+        "name": "John Doe",
+        "email": "johndoe@penze.com.br",
+        "registration": "999999",
+        "mobile": "999999",
+        "avatar": null,
+        "city_id": 4823,
+        "team_id": 1,
+        "email_verified_at": null,
+        "created_at": "2019-08-12 14:49:49",
+        "updated_at": "2019-08-12 14:49:49"
+    },
+    "token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiIsImp0aSI6IjFhMzdhNGIzM2NjMWUwNjhiNzkyNzc0OWM1ZDVkNTlhNTkyMzkxOTcyOGY2YjQ2MWZlM2ZjNzIyMGZmNTk1MjIyYmZhZGYwOGNiZDZlODIyIn0.eyJhdWQiOiIxIiwianRpIjoiMWEzN2E0YjMzY2MxZTA2OGI3OTI3NzQ5YzVkNWQ1OWE1OTIzOTE5NzI4ZjZiNDYxZmUzZmM3MjIwZmY1OTUyMjJiZmFkZjA4Y2JkNmU4MjIiLCJpYXQiOjE1NjU2OTc0OTQsIm5iZiI6MTU2NTY5NzQ5NCwiZXhwIjoxNTk3MzE5ODk0LCJzdWIiOiIxIiwic2NvcGVzIjpbXX0.S-xu5Mytw_FFR6v4xGtUoJNX2OzWKSkiBQKX84I0J-ju6s8-cieg6V-rXJv0bb88Dxib6SYhT_d8_5eLujrWtbEvBbOhnEjD2fhQ99KSzd3-E6wK_LYGiygeULTxOAvBhFe3l1CVP68EIKYalFNoW0U7pkeRj4pVyn_H8U5Vw5kWwgUKLIeg5wpJjhgFnDNYA0YwkTVkmFtEGK6PDA9y6-FGg5the9HxFPxP_7OM_G7Mt9eaIzECtyicaCuw-YQD-pBZtxGClq5wDH2TvyX0hM7HWDz87rhfX7FFXKIQHlf-8N52PiLqK9Ykyj6pQOV3mzSMJrfeQ1SKSPCOjMeBv78-JTrfdiqI6dlxBWlomIHYSKxn58ffs402O4TqEd6eqx0emLft4xZqS04LOMy0jRpfWXSlCEre4mw1Uq2KtEEVHljyBnf8QHHMKU8NYPEY8jaJbg80mitpvC4S03oSZ4TwEr4YUfPAYseK3xY_-P17n7gL_t79dR-jU4fGPBqWC1hhaNHSGcqqdbVZX_VQUPJ2AisUFA9C4Llw82NMQjypyqthnECCYOJUgzvnbhThoZg5pJedUsN0fgDKNZWn5rtnKy0roXmip8lpZKT8B7Yy4Fi6Rrxlv8Xz15exsGi08cxnDlaNdZToZsH6A4LsHmAdZlkBXm3uDayVZsP1eqY"
+}

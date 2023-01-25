@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "title": "Instruções - Como utilizar o Kit Antisséptico da Casa Di Conti",
+        "description": "Confira no vídeo com Sueli Pessoni, gerente da nossa área de Qualidade, como utilizar o Kit Antisséptico que demos a todos nossos colaboradores! Casa Di Conti - Responsabilidade Social.",
+        "video_url": "https://player.vimeo.com/video/408704249",
+        "date": "24/04/2020 - 15:09 hrs",
+        "created_at": "2020-04-24 14:00:00",
+        "updated_at": "2020-04-24 14:00:00"
+    },
+    {
+        "id": 2,
+        "title": "O que é Covid-19?",
+        "description": "Chegou o primeiro Conticast! Nesse vídeo aprenda tudo o que se sabe sobre Covid-19 até agora, em um bate-papo entre Quézia, da área de Desenvolvimento Humano, e a Dr Juliana Penço, infectologista",
+        "video_url": "https://player.vimeo.com/video/413553820",
+        "date": "30/04/2020 - 15:36 hrs",
+        "created_at": "2020-04-30 14:00:00",
+        "updated_at": "2020-04-30 14:00:00"
+    }
+]
